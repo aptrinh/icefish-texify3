@@ -61,3 +61,67 @@
     font-weight: normal;
     src: url('../fonts/lmroman-normal.woff');
 }
+
+@font-face {
+    font-display: swap;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/SourceSerifPro-Regular.otf');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Source Serif Pro';
+    font-style: italic;
+    font-weight: normal;
+    src: url('../fonts/SourceSerifPro-It.otf');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Source Serif Pro';
+    font-style: italic;
+    font-weight: bold;
+    src: url('../fonts/SourceSerifPro-BoldIt.otf');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/SourceSerifPro-Bold.otf');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/IBMPlexMono-Regular.ttf');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'IBM Plex Mono';
+    font-style: italic;
+    font-weight: normal;
+    src: url('../fonts/IBMPlexMono-Italic.ttf');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'IBM Plex Mono';
+    font-style: italic;
+    font-weight: bold;
+    src: url('../fonts/IBMPlexMono-BoldItalic.ttf');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/IBMPlexMono-Bold.ttf');
+}
